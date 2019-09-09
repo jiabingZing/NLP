@@ -22,7 +22,10 @@ Python 3 (必须要使用Python 3)
 - 倒排列表：通过倒排列表来加快文档的检索
 
 #### 知识抽取
-- ...
+- 详见notebook
+
+#### seq2seq_Att
+参考知乎：https://zhuanlan.zhihu.com/p/81761891
 
 
 
